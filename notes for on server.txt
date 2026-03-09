@@ -1,0 +1,5 @@
+open the cmd and type    ===cd C:\Users\pshar\OneDrive\Desktop\AI_TRADER
+python app.py
+
+
+ then paste the this url===   http://127.0.0.1:5000
